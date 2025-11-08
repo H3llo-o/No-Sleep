@@ -5,7 +5,7 @@ Team No-Sleep
  Dominique (Programmer and Tester),
  Rheinz (Concept and Graphic Design),
  Joshua (Graphic Design),
- Sai (Story Narrative),
+ Sai (Story Narrative)
 
 Shoutout to...
 - Ate Sai for the story
