@@ -7,7 +7,7 @@ Team No-Sleep
  Joshua (Graphic Design),
  Sai (Story Narrative)
 
-Shoutout to...
+Credits to...
 - Ate Sai for the story
 - Kuya Gian and Dominique for coding the game
 - Rheinz for the concept and graphic design
